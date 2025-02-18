@@ -4,4 +4,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science is used to analyze big data and provide insights for the same. It can be used in a lot of industries like the fintech industry, healthcare etc and can be applied for predictive analysis.
 
+Q3: What is the difference between Merging and Rebasing?
 
+Answer: Merging is used to merge two branches together and rebase is used to move or reapply a branch to a new base branch.
